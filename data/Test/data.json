@@ -1,0 +1,16 @@
+{
+  "name": "Test Token",
+  "symbol": "Test",
+  "decimals": "18",
+  "description": "This is a test token",
+  "website": "https://github.com/",
+  "twitter": "https://github.com/",
+  "tokens": {
+    "ethereum": {
+      "address": "0x1234123412341234123412341234123412341234"
+    },
+    "base": {
+      "address": "0x2345234523452345234523452345234523452345"
+    }
+  }
+}
