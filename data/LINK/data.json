@@ -1,16 +1,16 @@
 {
-  "name": "Chainlink",
+  "name": "ChainLink",
   "symbol": "LINK",
-  "decimals": 18,
+  "decimals": "18",
+  "description": "This is a test token",
+  "website": "https://github.com/",
+  "twitter": "https://github.com/",
   "tokens": {
     "ethereum": {
-      "address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
     },
-    "optimism": {
-      "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6"
-    },
-    "mode": {
-      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+    "base": {
+      "address": "0x8758FBE26442f19A5F3d01e7733651f4C11E9E06"
     }
   }
 }
