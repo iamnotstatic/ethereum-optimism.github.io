@@ -2,9 +2,9 @@
   "name": "ChainLink",
   "symbol": "LINK",
   "decimals": "18",
-  "description": "This is a test token",
-  "website": "https://github.com/",
-  "twitter": "https://github.com/",
+  "description": "This is a test token with edit",
+  "website": "https://github.com",
+  "twitter": "https://github.com",
   "tokens": {
     "ethereum": {
       "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
