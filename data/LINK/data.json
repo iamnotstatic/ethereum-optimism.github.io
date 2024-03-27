@@ -6,17 +6,8 @@
   "website": "https://github.com",
   "twitter": "https://github.com",
   "tokens": {
-    "ethereum": {
-      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
-    },
-    "base": {
-      "address": "0x8758FBE26442f19A5F3d01e7733651f4C11E9E06"
-    },
-    "sepolia": {
-      "address": "0x8758FBE26442f19A5F3d01e7733651f4C11E9E06"
-    },
-    "optimism-sepolia": {
-      "address": "0x6789678967896789678967896789678967896789"
+    "optimism": {
+      "address": "0x2345234523452345234523452345234523452345"
     }
   }
 }
