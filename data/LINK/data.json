@@ -4,13 +4,13 @@
   "decimals": "18",
   "description": "This is a test token with edit",
   "website": "https://github.com",
-  "twitter": "https://twitter.com/link",
+  "twitter": "https://github.com",
   "tokens": {
     "optimism": {
       "address": "0x2345234523452345234523452345234523452345"
     },
     "ethereum": {
-      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624100"
+      "address": "0x779877A7B0D9E8603169DdbD7836e478b4624789"
     },
     "base": {
       "address": "0x8758FBE26442f19A5F3d01e7733651f4C11E9E06"
